@@ -10,6 +10,7 @@
 
 ## Description
     This is just another text editor. 
+    link https://text-editor-mcg-5c1011001da7.herokuapp.com/
 ## Installation
     To install you could download the code and open the terminal. run npm i to install the packages and npm start to start the application
 ## Usage
